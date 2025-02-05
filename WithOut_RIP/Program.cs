@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Enter your skill set for job opening (like .net,java,php,)");
+﻿Console.WriteLine("Enter your skill set for job opening (like .net,java,php,reactjs)");
 string knowledge = Console.ReadLine();
 if (knowledge == ".net")
 {
